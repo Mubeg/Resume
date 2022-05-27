@@ -1,0 +1,74 @@
+Формат:
+- %название%:%степень овладения [Эксперт(4)/Хорошо(3)/Средне(2)/Новичок(1)]% [Полужирное: Практика, Обычный: Умения, Курсив - Теория]
+
+Неотсортированное:
+
+- SQL
+- C/C++
+	- C CUDA
+	- gcc/g++/
+	- gdb
+	- version control
+	- Processor emulator
+		- Assembler
+			- Assembler Listing
+		- Disassembler
+
+	- Canaries, assertions, checks and tests
+	- Structs
+	- Preprocessor
+		- include file definitions
+	- wchar
+	- Locks, multiproc
+	- Comments & doxygen
+	- Terminal TUI (Text after text)
+	- Standard streams
+	- Memory allocation
+	- Standart algorithms on custom functions
+	- Logging
+	- Dumping
+	- Akinator:
+		- GUI with elements of game design
+	- Data structure file saving
+	- DOT graphing language
+	- GNUplot
+	- Hashtable
+		- Graphical comparing of algorithms
+	- Diferentiator
+		- Tex
+	- Language
+		- Recursive Descent Shift
+	- Project optimization with callgrind
+	- Assembler code includes
+	- Binary Translator
+
+- Java
+- Python
+	- Preproc scripts
+- Assembler
+	- ELF
+- Neural networks
+- Computer vision
+- Machine learning
+- Android studio
+- Visual studio
+- Codeblocks
+- Tex
+- Git
+- html
+- javascript
+- css
+- backend
+- frontend
+- bash
+- linux
+- olymp prog
+- Word
+- Exel
+- Photoshop
+- Windows admin
+
+Мои увлечения:
+Мои знания:
+Мои умения:
+Мои практики:
