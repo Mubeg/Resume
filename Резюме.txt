@@ -41,11 +41,14 @@
 	- Project optimization with callgrind
 	- Assembler code includes
 	- Binary Translator
+	- Pipes
+	- Fork
 
 - Java
 - Python
 	- Preproc scripts
 - Assembler
+	- Manual disassembly
 	- ELF
 - Neural networks
 - Computer vision
@@ -66,7 +69,7 @@
 - Word
 - Exel
 - Photoshop
-- Windows admin
+- Windows
 
 Мои увлечения:
 Мои знания:
