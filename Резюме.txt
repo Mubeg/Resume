@@ -1,77 +1,107 @@
 Формат:
-- %название%:%степень овладения [Эксперт(4)/Хорошо(3)/Средне(2)/Новичок(1)]% [Полужирное: Практика, Обычный: Умения, Курсив - Теория]
+#define %Оценка% %степень овладения[Эксперт(4)/Хорошо(3)/Средне(2)/Новичок(1)/Интересует(0)]%
+- %название% :[!-%Оценка% for Практика] [ #-%Оценка% for Теория] ["Примечание"]
 
-Неотсортированное:
+Пример:
+ 
+----------------------------------------------------------------------------------------------------------
+- SQL                                                 : !-2 #-3 "Stepik SQL course"                      |
+  ^                                                  ^   ^   ^  ^                 ^                      | 
+  |                                                  |   |   |  |                 |                      | 
+  Название ------------------------------------------    |   |   ------- Примечание                      | 
+                                                  Практика   Теория                                      |
+----------------------------------------------------------------------------------------------------------
 
-- SQL
-- C/C++
-	- C CUDA
-	- gcc/g++/
-	- gdb
-	- version control
-	- Processor emulator
-		- Assembler
-			- Assembler Listing
-		- Disassembler
 
-	- Canaries, assertions, checks and tests
-	- Structs
-	- Preprocessor
-		- include file definitions
-	- wchar
-	- Locks, multiproc
-	- Comments & doxygen
-	- Terminal TUI (Text after text)
-	- Standard streams
-	- Memory allocation
-	- Standart algorithms on custom functions
-	- Logging
-	- Dumping
-	- Akinator:
-		- GUI with elements of game design
-	- Data structure file saving
-	- DOT graphing language
-	- GNUplot
-	- Hashtable
-		- Graphical comparing of algorithms
-	- Diferentiator
-		- Tex
-	- Language
-		- Recursive Descent Shift
-	- Project optimization with callgrind
-	- Assembler code includes
-	- Binary Translator
-	- Pipes
-	- Fork
+Мои умения:
 
-- Java
-- Python
-	- Preproc scripts
-- Assembler
-	- Manual disassembly
-	- ELF
-- Neural networks
+----------------------------------------------------------------------------------------------------------
+- C/C++ 						: !-3 #-3                                          |
+	- Visual studio  				: !-1                                              |
+	- Codeblocks					: !-3                                              |	
+	- gcc/g++/					: !-2                                              |
+	- gdb						: !-1                                              |
+	- version control				: !-2                                              |
+	- Processor emulator				: !-3                                              |
+		- Assembler				: !-3                                              |
+			- Assembler Listing		: !-3                                              |
+		- Disassembler				: !-3                                              |
+	- Canaries, assertions, checks		: !-3                                              |
+	- Autotests					: !-2                                              |
+	- Exploits					: !-2 #-2                                          |
+	- Structs					: !-4                                              |
+	- Preprocessor					: !-3                                              |
+		- include file definitions		: !-2                                              |
+	- Russian language (wchar)			: !-3                                              |
+	- Locks, multiprocessing			: #-2                                              |
+	- Comments & doxygen				: !-2                                              |
+	- Terminal text GUI				: !-2                                              |
+	- Standard streams				: !-3                                              |
+	- Memory allocation				: !-3                                              |
+	- Standard algorithms on custom functions	: !-3                                              |
+	- Logging					: !-2                                              |
+	- Dumping					: !-3                                              |
+	- Trees 					: !-3 "Akinator, Programming Language"             |
+		- GUI with elements of game design	: !-2                                              |
+		- Data structure saving to file	: !-3                                              |
+	- DOT graphing language			: !-2                                              |
+	- GNUplot					: !-2                                              |
+	- Hash tech 					: !-3 "Hash Table"                                 |
+	- Algorithm comparing in GUI			: !-2                                              |
+	- Recurrent Descent Shift			: !-3 "Differentiator, Programming Language"       |
+	- Compiler					: !-3 "Programming Language"                       |
+	- Project optimization with callgrind		: !-2                                              |
+	- Assembler code includes			: !-2                                              |
+	- Binary Translator				: !-2                                              |
+	- Pipes					: !-1 #-2                                          |
+	- Fork						: !-1 #-2                                          |
+----------------------------------------------------------------------------------------------------------
+- Java							: !-1                                              |
+	- Android studio				: !-1                                              |
+----------------------------------------------------------------------------------------------------------
+- Python						: !-2                                              |
+	- Raw request parsing				: !-2                                              |
+	- Multi-object simulation			: !-2                                              |
+	- Actor in environment				: !-2                                              |
+	- Preprocessing scripts			: !-2                                              |
+----------------------------------------------------------------------------------------------------------
+- Assembler						: !-2 #-2                                          |
+	- DOSbox					: !-2                                              |
+		- DOS					: !-1                                              | 
+	- Direct video memory drawing			: !-2                                              |
+	- Interrupt injection				: !-2                                              |
+	- TASM						: !-2                                              |
+	- Manual disassembly				: !-2                                              |
+	- Structure of ELF-file			: !-1 #-3                                          |
+----------------------------------------------------------------------------------------------------------
+- Web							: !-1 #-1                                          |
+	- Web security 				: !-1 #-1                                          |
+	- SQL 						: !-2 #-3 "Stepik SQL course"                      |
+	- HTML						: !-2 #-2                                          |
+	- JavaScript					: !-1 #-1                                          |
+	- CSS						: !-2 #-2                                          |
+	- PHP						: !-1                                              |
+----------------------------------------------------------------------------------------------------------
+- Linux						: !-2                                              |
+	- Git						: !-2                                              |
+	- Bash						: !-2                                              |
+		- Site-striping for data		: !-2                                              |
+----------------------------------------------------------------------------------------------------------	
+- Windows						: !-2                                              |
+	- Word						: !-3                                              |
+	- Excel					: !-3                                              |
+	- Photoshop					: !-2                                              |
+----------------------------------------------------------------------------------------------------------
+
+Мои интересы:
+
 - Computer vision
 - Machine learning
-- Android studio
-- Visual studio
-- Codeblocks
-- Tex
-- Git
-- html
-- javascript
-- css
-- backend
-- frontend
-- bash
-- linux
-- olymp prog
-- Word
-- Exel
-- Photoshop
-- Windows
+- Neural networks
+- AI
+- Roboticts
+- Web security
+- Low-level architecture
 
-Мои увлечения:
-Мои знания:
-Мои умения:
-Мои практики:
+
+
