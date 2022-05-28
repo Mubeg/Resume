@@ -1,0 +1,69 @@
+- C/C++:!-3 #-3
+    - Visual studio:!-1
+    - Codeblocks:!-3
+    - gcc/g++:!-2
+    - gdb:!-1
+    - version control:!-2
+    - Processor emulator:!-3
+        - Assembler:!-3
+             - Assembler Listing:!-3
+        - Disassembler:!-3
+    - Canaries, assertions, checks:!-3
+    - Autotests:!-2
+    - Exploits:!-2 #-2
+    - Structs:!-3
+    - Preprocessor:!-3
+        - include file definitions:!-2
+    - Russian language (wchar):!-3
+    - Locks, multiprocessing:#-2
+    - Comments & doxygen:!-2
+    - Terminal text GUI:!-2
+    - Standard streams:!-3
+    - Memory allocation:!-3
+    - Standard algorithms on custom functions:!-3
+    - Logging:!-2
+    - Dumping:!-3
+    - Trees:!-3 "Akinator, Programming Language"
+            - GUI with elements of game design:!-2
+            - Data structure saving to file:!-3
+    - DOT graphing language:!-2
+    - GNUplot:!-2
+    - Hash tech:!-3 "Hash Table"
+    - Algorithm comparing in GUI:!-2
+    - Recurrent Descent Shift:!-3 "Differentiator, Programming Language"
+    - Compiler:!-3 "Programming Language"
+    - Project optimization with callgrind:!-2
+    - Assembler code includes:!-2
+    - Binary Translator:!-2
+    - Pipes:!-1 #-2
+    - Fork:!-1 #-2
+- Java:!-1
+    - Android studio:!-1
+- Python:!-2
+    - Raw request parsing:!-2
+    - Multi-object simulation:!-2
+    - Actor in environment:!-2
+    - Preprocessing scripts:!-2
+- Assembler:!-2 #-2
+    - DOSbox:!-2
+        - DOS:!-1
+    - Direct video memory drawing:!-2
+    - Interrupt injection:!-2
+    - TASM:!-2
+    - Manual disassembly:!-2
+    - Structure of ELF-file:!-1 #-3
+- Web:!-1 #-1
+    - Web security:!-1 #-1
+    - SQL:!-2 #-3 "Stepik SQL course"
+    - HTML:!-2 #-2
+    - JavaScript:!-1 #-1
+    - CSS:!-2 #-2
+    - PHP:!-1
+- Linux:!-2
+    - Git:!-2
+    - Bash:!-2
+        - Site-striping for data:!-2
+- Windows:!-2
+    - Word:!-3
+    - Excel:!-3
+    - Photoshop:!-2
